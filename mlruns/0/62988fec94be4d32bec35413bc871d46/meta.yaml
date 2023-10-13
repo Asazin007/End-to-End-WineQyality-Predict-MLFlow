@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91630/Desktop/Devs/ML/Prediction_project/mlruns/0/62988fec94be4d32bec35413bc871d46/artifacts
+end_time: 1697229472042
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62988fec94be4d32bec35413bc871d46
+run_name: ambitious-deer-400
+run_uuid: 62988fec94be4d32bec35413bc871d46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697229466071
+status: 3
+tags: []
+user_id: '91630'
