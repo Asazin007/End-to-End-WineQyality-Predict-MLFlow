@@ -14,9 +14,7 @@
 9. Update the app.py
 
 ## Deployment
-Website(Azure):```
- https://winequalityprediction.azurewebsites.net/  
-  ```
+Website(Azure): https://winequalityprediction.azurewebsites.net/ 
 # How to run?
 ### STEPS:
 
